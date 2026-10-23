@@ -1,0 +1,13 @@
+{
+  "name": "Aldmere Works",
+  "description": "A 10v10 map on an unfinished cathedral building site: Agatha holds the west front and court, the masons the lodge and the east yard. On its own it plays as Team Deathmatch; with Aldmere Hardpoint it runs the Hardpoint mode.",
+  "authors": [
+    "Ned"
+  ],
+  "mod_dependencies": [
+    {
+      "repo_url": "https://github.com/chivned/AldmereHardpoint",
+      "version": "^0.4.9"
+    }
+  ]
+}
